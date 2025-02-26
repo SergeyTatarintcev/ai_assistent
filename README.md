@@ -1,5 +1,7 @@
 # Проект: ИИ-ассистент для компании по установке корпусной мебели, в частности кухонь 
-Ссылка на проект - @by_kitchen_bot
+Ссылка на проект - https://t.me/by_kitchen_bot
+
+![Скриншот1](https://github.com/SergeyTatarintcev/ai_assistent/blob/main/2025-02-26_13-52-11.png?raw=true)
 
 ## Описание проекта
 
