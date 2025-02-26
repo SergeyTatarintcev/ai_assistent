@@ -21,7 +21,7 @@
 3. **Запись клиента на встречу и добавление встречи в Google Календарь через telegram bot**  
    Ассистент может организовать встречу с клиентом, предложив доступные даты и время, а затем автоматически добавить событие в Google Календарь сотрудника компании.
 
-   ![Скриншот1](https://github.com/SergeyTatarintcev/ai_assistent/blob/main/2025-02-26_13-52-11.png?raw=true](https://github.com/SergeyTatarintcev/ai_assistent/blob/main/2025-02-26_13-52-59.png?raw=true)
+   ![Скриншот1](https://github.com/SergeyTatarintcev/ai_assistent/blob/main/2025-02-26_13-52-59.png?raw=true)
 
 ---
 
